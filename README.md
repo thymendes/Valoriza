@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img alt="Preview" src="./src/img/preview.png">
+  <img alt="Preview" src="./img/preview.png">
 </p>
 
 ## ✨ Tecnologias
